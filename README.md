@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 
-
+[DIAGRAM](./out/src/Example/Example.png)
 
 
 
@@ -16,10 +16,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Key Points 
 
-### Project root is the parent of 'src'.
-### Entry point for Angular applications is src.main.ts
-### This gets executed when the app starts.
-### SERVER_URL should be the URL of your API server where your REST APIs are hosted. 
+- Project root is the parent of 'src'.
+- Entry point for Angular applications is src.main.ts
+- This gets executed when the app starts.
+- SERVER_URL should be the URL of your API server where your REST APIs are hosted. 
 
 
 ## firebasesrc file 
