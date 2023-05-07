@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-19639"
+  },
+  "targets": {
+    "angular-19639": {
+      "hosting": {
+        "angular-example": [
+          "angular-19639"
+        ]
+      }
+    }
+  }
+}
