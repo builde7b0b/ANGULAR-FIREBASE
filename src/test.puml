@@ -1,0 +1,17 @@
+@startuml
+class Car {
+  -make: string
+  -model: string
+  -year: number
+  +start(): void
+  +stop(): void
+}
+
+class Person {
+  -name: string
+  -age: number
+  +drive(car: Car): void
+}
+
+Person -> Car
+@enduml

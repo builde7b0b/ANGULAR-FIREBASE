@@ -1,0 +1,7 @@
+@startuml
+rectangle "Angular Example Application" as app {
+    rectangle "About" as about
+    rectangle "Firebase" as firebase
+    about --> firebase
+}
+@enduml
